@@ -1,6 +1,6 @@
 {
   "name": "hello-mars-ali-shawky",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Say hello to Mars",
   "main": "index.js",
   "scripts": {
